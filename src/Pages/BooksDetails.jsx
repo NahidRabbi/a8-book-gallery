@@ -21,4 +21,4 @@ const BooksDetails = () => {
   );
 };
 
-export default BooksDetails; 
+export default BooksDetails;
