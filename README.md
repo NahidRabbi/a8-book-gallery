@@ -1,6 +1,6 @@
-BookVibe
+BookGallery
 
-BookVibe is a web application that allows users to create their read lists, add books to their wishlist, and explore various subscription plans.
+BookGallery is a web application that allows users to create their read lists, add books to their wishlist, and explore various subscription plans.
 
 Unleash Your Imagination: Find Your Next Favorite Read Among Our Diverse Collection!
 

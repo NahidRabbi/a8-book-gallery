@@ -7,7 +7,7 @@ const Navber = () => {
 
       <div >
         <NavLink to="/error" className="btn btn-ghost text-xl font-bold">
-          Book Vibe
+          Book Gallery
         </NavLink>
       </div>
       <div className="">
